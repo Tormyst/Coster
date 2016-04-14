@@ -1,7 +1,7 @@
 # Coster
 This is a coaster for the graphics class I recently took.
 
-## Buttens you can push to do stuff
+## Buttons you can push to do stuff
 
 Space - toggle mode
 
